@@ -1,2 +1,2 @@
-# Geaph-plotter
+# Graph-plotter
 Plot voltage vs Time graph from Arduino data
